@@ -1,4 +1,4 @@
-Crawler with AI Control
+Crawler with AI Control. *Personal project. Not affiliated with or derived from any employer work.*
 
 # Overview
 
